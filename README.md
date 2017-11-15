@@ -1,6 +1,6 @@
 # Comfort Reaction Toy
 
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+My idea is to create a soft toy that reacts to the enviroment around it by lighting up in different colors, speeds, and orders. 
 
 ## Summary
 
