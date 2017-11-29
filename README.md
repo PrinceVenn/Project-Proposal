@@ -11,16 +11,26 @@ The main idea of my project is to create an object that can sooth using color an
 ## Component Parts
 
 Flora - Wearable electronic platform: Arduino-compatible - v3
+
 Adafruit GEMMA v2 - Miniature wearable electronic platform
-Flora Lux Sensor - TSL2561 Light Sensor - v1.0
+
+Flora Lux Sensor - TSL2561 Light Sensor - v1.0 (X)
+
 Flora RGB Smart NeoPixel version 2 - Sheet of 20
+
 2 x 2032 Coin Cell Battery Holder - 6V output with On/Off switch
+
 4 CR2032 Lithium Coin Cell Batterys
+
 Stainless Thin Conductive Thread - 2 ply - 23 meter/76 ft
-Sewing Needles
+
+Sewing Needles (X)
+
 Clear Nail Polish (Need)
-Sometype of Fabric (Need)
-USB for conecting Flora to laptop
+
+Sometype of Fabric (X)
+
+USB for conecting Flora to laptop (X)
 
 
 ## Challenges
