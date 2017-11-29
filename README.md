@@ -22,7 +22,7 @@ Flora RGB Smart NeoPixel version 2 - Sheet of 20
 
 4 CR2032 Lithium Coin Cell Batterys
 
-Stainless Thin Conductive Thread - 2 ply - 23 meter/76 ft
+Stainless Thin Conductive Thread - 2 ply - 23 meter/76 ft (X)
 
 Sewing Needles (X)
 
@@ -50,3 +50,4 @@ What parts of the project do you anticipate you will complete in each of the nex
 ## References and link
 
 Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
+)Sewing with conductive thread (https://learn.adafruit.com/conductive-thread/projects)
