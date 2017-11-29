@@ -1,31 +1,40 @@
-# Comfort Reaction Toy
+# Comfort/Reaction Object/Toy
 
-My idea is to create a soft toy that reacts to the enviroment around it by lighting up in different colors, speeds, and orders. 
+My idea is to create a soft toy or shape that reacts to the amount of light in the enviroment around it by lighting up in different colors, speeds, and orders. 
 
 ## Summary
 
-Here, write a few paragraphs (half a page?) or so describing the goals of your project. 
+The Comfort/Reaction Object/Toy is going to be a handheld cloth object that lights up. The lights will be a number of different hues and brightnesses, and will change based off the light in the enviroment around the toy. I will be using sewable electronics
 
-Include a discussion how it will be interactive or responsive to the environment.
+The main idea of my project is to create an object that can sooth using color and knowns when it is dark enough for it's color to be seen. The object will also, hypothetically, be able to be manipulated into changing its hue and brightness by the user. 
 
 ## Component Parts
 
-From what pieces will you build your project? Will you build or buy those pieces?
+Flora - Wearable electronic platform: Arduino-compatible - v3
+Adafruit GEMMA v2 - Miniature wearable electronic platform
+Flora Lux Sensor - TSL2561 Light Sensor - v1.0
+Flora RGB Smart NeoPixel version 2 - Sheet of 20
+2 x 2032 Coin Cell Battery Holder - 6V output with On/Off switch
+4 CR2032 Lithium Coin Cell Batterys
+Stainless Thin Conductive Thread - 2 ply - 23 meter/76 ft
+Sewing Needles
+Clear Nail Polish (Need)
+Sometype of Fabric (Need)
+USB for conecting Flora to laptop
 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
 ## Challenges
 
-A brief discussion of what you anticipate will be the hardest and most time-consuming parts.
+I feel like the hardest part of this assignment for me will be the coding and using the input. I have experience with using conductive thread, sewable electronics and LED's together, but this will be my first time creating something using both coding and sewing. When coding, i often have to re-write the things I write, and I make a lot of simple mistakes. I will also be using the light detection input that JD showed us in class for the first time, so I might get a little confused while using that.
 
 ## Timeline
 
 What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible! 
 
 - Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
+- Week 2: Finish putting together idea and purchase electronics. Begin looking into fabrics and cloth.
+- Week 3: Practise sewing with conductive thread, LED's and input device. Decide on shape and look of object.
+- Week 4: Make sure all LED's work, finish sewing and finalize pattern for lights.
 - Week 5: Present!
 
 ## References and link
