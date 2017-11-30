@@ -49,5 +49,10 @@ What parts of the project do you anticipate you will complete in each of the nex
 
 ## References and link
 
-Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
-)Sewing with conductive thread (https://learn.adafruit.com/conductive-thread/projects)
+Sewing with conductive thread (https://learn.adafruit.com/conductive-thread/projects)
+Neo-Pixel info (https://learn.adafruit.com/flora-rgb-smart-pixels/overview)
+More Neo-Pixel info (https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices)
+FLORA Info (https://learn.adafruit.com/getting-started-with-flora/overview)
+GEMMA Info (https://learn.adafruit.com/introducing-gemma)
+Light-Up Tie (Neo-Pixels, conductive thread, Flora, Sensor) (https://learn.adafruit.com/led-ampli-tie/battery-pouch-and-flora?view=all)
+Light Sensor (https://learn.adafruit.com/flora-lux-sensor)
