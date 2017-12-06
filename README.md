@@ -10,23 +10,23 @@ The main idea of my project is to create an object that can sooth using color an
 
 ## Component Parts
 
-Flora - Wearable electronic platform: Arduino-compatible - v3
+Flora - Wearable electronic platform: Arduino-compatible - v3 (X)
 
-Adafruit GEMMA v2 - Miniature wearable electronic platform
+Adafruit GEMMA v2 - Miniature wearable electronic platform (X)
 
 Flora Lux Sensor - TSL2561 Light Sensor - v1.0 (X)
 
-Flora RGB Smart NeoPixel version 2 - Sheet of 20
+Flora RGB Smart NeoPixel version 2 - Sheet of 20 (X)
 
-2 x 2032 Coin Cell Battery Holder - 6V output with On/Off switch
+2 x 2032 Coin Cell Battery Holder - 6V output with On/Off switch (X)
 
-4 CR2032 Lithium Coin Cell Batterys
+4 CR2032 Lithium Coin Cell Batterys (X)
 
 Stainless Thin Conductive Thread - 2 ply - 23 meter/76 ft (X)
 
 Sewing Needles (X)
 
-Clear Nail Polish (Need)
+Clear Nail Polish (X)
 
 Sometype of Fabric (X)
 
